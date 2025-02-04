@@ -1,8 +1,5 @@
 
-![Passionate_ _ _ _ _ _ _ _ _ _ _  IOS_Developer](https://github.com/user-attachments/assets/43441714-c248-43b6-9141-5211ac64223e)
-
-
-<h1 align="center">Hi 👋, I'm Hsu Yee Mon</h1>
+![Hi_ _ _ _ _ _ _ _ _ _ _  I'm Hsu Yee Mon](https://github.com/user-attachments/assets/43441714-c248-43b6-9141-5211ac64223e)
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF4Yng4a3VxNWZrNTI4dDg0eW5lMHcwZ3luZXhycGIyemwyMXhwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
