@@ -1,6 +1,4 @@
-<!-- PINK AESTHETIC GITHUB README 🌸 by ChatGPT -->
-
-<img align="right" alt="Coding Girl" width="320" src="https://i.pinimg.com/originals/ff/5a/86/ff5a860cf97eb6ed91d3ddf3b528b37b.gif" />
+<img align="right" alt="Coding Girl" width="320" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF4Yng4a3VxNWZrNTI4dDg0eW5lMHcwZ3luZXhycGIyemwyMXhwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 # 💖 Hsu Yee Mon
 
