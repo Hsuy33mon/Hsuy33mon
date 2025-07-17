@@ -1,5 +1,7 @@
+<img  src="https://i.pinimg.com/1200x/58/df/07/58df07d5221a70ff2d4ac20fc0af0145.jpg" style="width: 100%;  height: 200px; max-width: 1000px; border-radius: 20px;"  />
+
 # 💖 Hsu Yee Mon
-<img align="right" alt="Coding Girl" width="320" src="https://i.pinimg.com/originals/cc/7c/ef/cc7cef64ccc15cc436d8ba121b8ef861.gif" />
+<img align="right" alt="Coding Girl" width="320" src="https://i.pinimg.com/736x/e7/dc/d7/e7dcd73d308c06e2dedec0c4dc14ba5d.jpg" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=hsuy33mon&label=Profile%20Views&color=ff69b4&style=flat-square)
 
@@ -51,5 +53,8 @@
   <img src="https://i.pinimg.com/originals/9f/83/98/9f83989fa6213aaef18c1e4d88b8c95a.gif" width="120" />
 </p>
 <p align="center"><b>Thank you for visiting! 🌸</b> </p>
-<img width="320" src="https://i.pinimg.com/originals/cc/7c/ef/cc7cef64ccc15cc436d8ba121b8ef861.gif" />
+<div align="center">
+  <img width="320" src="https://i.pinimg.com/1200x/09/de/22/09de221b0ba63e9ac9a7e0b29c51d1d4.jpg" />
+</div>
+
 
