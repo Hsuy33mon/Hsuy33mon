@@ -1,20 +1,10 @@
-<img align="right" alt="Coding Girl" width="320" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF4Yng4a3VxNWZrNTI4dDg0eW5lMHcwZ3luZXhycGIyemwyMXhwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
-
 # 💖 Hsu Yee Mon
+<img align="right" alt="Coding Girl" width="320" src="https://i.pinimg.com/originals/cc/7c/ef/cc7cef64ccc15cc436d8ba121b8ef861.gif" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=hsuy33mon&label=Profile%20Views&color=ff69b4&style=flat-square)
 
 > 🌸 Aspiring Developer & UI Designer  
 > 🍜 Foodie | ✨ Aesthetic Lover | ☁️ Always Learning
-
----
-
-## 🌱 Currently Learning
-
-- 📱 SwiftUI & UIKit  
-- ☕ Java + Spring Boot  
-- 🎨 UI/UX Design with Figma  
-- 💻 Python, JS, and C++
 
 ---
 
@@ -60,4 +50,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/9f/83/98/9f83989fa6213aaef18c1e4d88b8c95a.gif" width="120" />
 </p>
-<p align="center"><b>Thank you for visiting! 🌸</b></p>
+<p align="center"><b>Thank you for visiting! 🌸</b> </p>
+<img width="320" src="https://i.pinimg.com/originals/cc/7c/ef/cc7cef64ccc15cc436d8ba121b8ef861.gif" />
+
