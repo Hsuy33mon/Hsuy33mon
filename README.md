@@ -5,7 +5,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=hsuy33mon&label=Profile%20Views&color=ff69b4&style=flat-square)
 
-> 🌸 Aspiring Developer & UI Designer  
+> 🌸 Fullstack Developer 
 > 🍜 Foodie | ✨ Aesthetic Lover | ☁️ Always Learning
 
 ---
