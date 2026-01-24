@@ -29,7 +29,7 @@
 <a href="https://fb.com/hsu yee mon](https://www.facebook.com/hsu.mon.50552/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hsu yee mon" height="30" width="40" /></a>
 <a href="https://instagram.com/je_suis_b3lle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="je_suis_b3lle" height="30" width="40" /></a>
 </p>
-<h3 align="left"> <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPsg7GpflyL&logo=leetcode&logoColor=yellow"/></h3> 
+<img src="https://leetcode-status.vercel.app/api/card/HsuY33mon?theme=pastel&layout=card&border=true&hide_title=false&logo=true&logo_color=theme&animation=false&animation_duration=2s&text_color=%23e63b7a&show_stats=false&font=Roboto" alt="LeetCode Stats"/>
 <h3 align="left"> 🛠 Languages & Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
